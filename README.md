@@ -21,7 +21,7 @@ We have learned CSS and responsive styling, and it's about time to put it all to
 
 We provide you with the initial HTML code, so you just have to focus on the styles. Don\`t remove or add any HTML unless it is strictly necessary. Use the icons in the `icons` folder in the repo.
 
-Check out the expected outcome and try to replicate it as much as you can. Watch out: it's responsive!
+Check out the [expected outcome](https://strong-buttercream-9cddf8.netlify.app/) and try to replicate it as much as you can. Watch out: it's responsive!
 
 When you are finished, push your repo and create a `Pull Request` so that we can check your work.
 
